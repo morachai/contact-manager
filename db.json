@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": "0545",
+      "name": "chaimae",
+      "email": "chaimae@gmail.com",
+      "phone": "0659536131"
+    },
+    {
+      "id": "39eb",
+      "name": "walid",
+      "email": "walid@gmail.com",
+      "phone": "1482972899"
+    },
+    {
+      "id": "nkxq",
+      "name": "john ",
+      "email": "john@gmail.com",
+      "phone": "7894561236"
+    },
+    {
+      "id": "zl61",
+      "name": "user",
+      "email": "user@gmail.com",
+      "phone": "4561237899"
+    },
+    {
+      "id": "t1ad",
+      "name": "yagami",
+      "email": "yagami@gmail.com",
+      "phone": "7539514869"
+    },
+    {
+      "id": "3i72",
+      "name": "hajar",
+      "email": "hajar@gmail.com",
+      "phone": "1593578954"
+    },
+    {
+      "id": "t1tf",
+      "name": "le moi",
+      "email": "moi@gmail.fr",
+      "phone": "7412589635"
+    },
+    {
+      "id": "w664",
+      "name": "papa",
+      "email": "test@gmail.fr",
+      "phone": "7539514865"
+    },
+    {
+      "id": "4lw6",
+      "name": "lux",
+      "email": "lux@gmail.hotml",
+      "phone": "7410258963"
+    }
+  ]
+}
